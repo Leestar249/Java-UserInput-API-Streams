@@ -1,6 +1,6 @@
 # Java User Input, API Requests, and Streams
 
-![Java Logo](https://www.oracle.com/a/ocom/img/cb71-java-logo-001.jpg)
+
 
 Welcome to the Java User Input, API Requests, and Streams project! This repository showcases a Java application that seamlessly integrates user input handling, concurrent API requests, and efficient data processing using streams.
 
